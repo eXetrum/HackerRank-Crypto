@@ -1,0 +1,6 @@
+D:\MS Visual Studio\Projects\C#\MonoAlphabeticalCipher\MonoAlphabeticalCipher\bin\Debug\MonoAlphabeticalCipher.exe.config
+D:\MS Visual Studio\Projects\C#\MonoAlphabeticalCipher\MonoAlphabeticalCipher\bin\Debug\MonoAlphabeticalCipher.exe
+D:\MS Visual Studio\Projects\C#\MonoAlphabeticalCipher\MonoAlphabeticalCipher\bin\Debug\MonoAlphabeticalCipher.pdb
+D:\MS Visual Studio\Projects\C#\MonoAlphabeticalCipher\MonoAlphabeticalCipher\obj\Debug\MonoAlphabeticalCipher.exe
+D:\MS Visual Studio\Projects\C#\MonoAlphabeticalCipher\MonoAlphabeticalCipher\obj\Debug\MonoAlphabeticalCipher.pdb
+D:\MS Visual Studio\Projects\C#\MonoAlphabeticalCipher\MonoAlphabeticalCipher\obj\Debug\MonoAlphabeticalCipher.csprojResolveAssemblyReference.cache
